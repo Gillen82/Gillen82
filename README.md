@@ -29,5 +29,3 @@ I have recently taken to learning web technologies that include HTML5 CSS3 and J
 <img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillen82&layout=compact" />
 
 
-![snake gif](https://github.com/gillen82/gillen82/blob/output/github-contribution-grid-snake.gif)
-
