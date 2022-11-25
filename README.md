@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/77494791/203944957-a53dc941-a22e-47ae-b14b-b5c99a2827a0.png)
+Image by https://dribbble.com/leanlongo
+
 Hi 👋 My name is Stevie
 =======================
 
