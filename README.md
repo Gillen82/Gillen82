@@ -1,7 +1,6 @@
-<img width="500px" src="https://user-images.githubusercontent.com/77494791/203945979-1adb94f1-0b78-4512-822b-1caaa2725ad7.gif" />
+<img width="100%" src="https://user-images.githubusercontent.com/77494791/203989998-bc90df8a-a4a0-43d4-96e9-74f7539151b7.gif" />
 
-
-Image by https://dribbble.com/leanlongo
+![Visitor Count Badge](https://komarev.com/ghpvc/?username=GithubUsername&label=Profile%20views&color=0e75b6&style=flat)
 
 Hi 👋 My name is Stevie
 =======================
@@ -27,5 +26,3 @@ I have recently taken to learning web technologies that include HTML5 CSS3 and J
 
 <img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=gillen82&show_icons=true&theme=radical" />
 <img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillen82&layout=compact" />
-
-![snake gif](https://github.com/gillen82/gillen82/blob/output/github-contribution-grid-snake.gif)
